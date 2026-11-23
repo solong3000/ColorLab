@@ -1,0 +1,1 @@
+Outfit font (embedded in app/src/main/assets/www/index.html) by the Outfit Project Authors, licensed under the SIL Open Font License 1.1. https://openfontlicense.org
